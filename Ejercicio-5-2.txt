@@ -1,0 +1,3 @@
+2)
+    Si sepuede, con cambiar el sentido de la flecha de una de ellas, en vez de (Probado_por → Técnico) a (Técnico → Probado_por).
+ 
